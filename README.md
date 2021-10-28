@@ -1,9 +1,9 @@
-# Project-003 : Calculator (JS-03)
+# Project-001 : Survey-Form
 
 
 
 ## Description
-Project aims to create a calculator.
+Project aims to create a survey form.
 
 ![gif](https://raw.githubusercontent.com/morcicek/Survey--Form/main/surveyform.gif)
 
